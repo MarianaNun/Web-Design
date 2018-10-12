@@ -1,0 +1,22 @@
+
+.titulo { 
+	font-family: Arial, Helvetica;
+	color: white;
+	background-color: grey;
+	font-size:50px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+
+.contenido { 
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 100%;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.parrafo  {
+	text-align: justify;
+}
